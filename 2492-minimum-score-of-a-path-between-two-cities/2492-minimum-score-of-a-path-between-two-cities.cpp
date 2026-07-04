@@ -1,48 +1,39 @@
 class Solution {
-private: 
-    void bfs(unordered_map<int, list<pair<int, int>>>& adj,
-             vector<int>& visited,
-             queue<int>& q,
-             int& ans) {
+public:
+    int minScore(int n, vector<vector<int>>& roads) {
+        vector<vector<pair<int, int>>> adj(n + 1);
+
+        for (auto& road : roads) {
+            int u = road[0];
+            int v = road[1];
+            int dist = road[2];
+
+            adj[u].push_back({v, dist});
+            adj[v].push_back({u, dist});
+        }
+
+        vector<bool> visited(n + 1, false);
+        queue<int> q;
+
+        q.push(1);
+        visited[1] = true;
+
+        int minScore = INT_MAX;
 
         while (!q.empty()) {
             int node = q.front();
             q.pop();
 
-            for (auto it : adj[node]) {
-                ans = min(ans, it.second);
+            for (auto [neighbor, dist] : adj[node]) {
+                minScore = min(minScore, dist);
 
-                if (!visited[it.first]) {
-                    visited[it.first] = 1;
-                    q.push(it.first);
+                if (!visited[neighbor]) {
+                    visited[neighbor] = true;
+                    q.push(neighbor);
                 }
             }
         }
-    }
 
-public:
-    int minScore(int n, vector<vector<int>>& roads) {
-        unordered_map<int, list<pair<int, int>>> adj;
-        vector<int> visited(n + 1, 0);
-
-        for (int i = 0; i < roads.size(); i++) {
-            adj[roads[i][0]].push_back(
-                {roads[i][1], roads[i][2]}
-            );
-
-            adj[roads[i][1]].push_back(
-                {roads[i][0], roads[i][2]}
-            );
-        }
-
-        queue<int> q;
-        q.push(1);
-        visited[1] = 1;
-
-        int ans = INT_MAX;
-
-        bfs(adj, visited, q, ans);
-
-        return ans;
+        return minScore;
     }
 };
