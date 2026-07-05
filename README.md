@@ -9,6 +9,7 @@
 | [0542-01-matrix](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/0994-rotting-oranges) |
+| [1020-number-of-enclaves](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/1020-number-of-enclaves) |
 | [3620-network-recovery-pathways](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/3620-network-recovery-pathways) |
 ## Depth-First Search
 |  |
@@ -18,6 +19,7 @@
 | [0547-number-of-provinces](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/0743-network-delay-time) |
+| [1020-number-of-enclaves](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/1020-number-of-enclaves) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 ## Breadth-First Search
 |  |
@@ -29,6 +31,7 @@
 | [0733-flood-fill](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/0743-network-delay-time) |
 | [0994-rotting-oranges](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/0994-rotting-oranges) |
+| [1020-number-of-enclaves](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/1020-number-of-enclaves) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 ## Matrix
 |  |
@@ -38,6 +41,7 @@
 | [0542-01-matrix](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/0994-rotting-oranges) |
+| [1020-number-of-enclaves](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/1020-number-of-enclaves) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -66,6 +70,7 @@
 | [0130-surrounded-regions](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/0547-number-of-provinces) |
+| [1020-number-of-enclaves](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/1020-number-of-enclaves) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 ## Binary Search
 |  |
