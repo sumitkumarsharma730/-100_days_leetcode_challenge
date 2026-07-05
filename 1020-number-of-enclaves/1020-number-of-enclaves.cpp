@@ -1,43 +1,42 @@
 class Solution {
 private:
-    void dfs(vector<vector<int>>& grid, int i, int j){
-        int x[] = {1, -1, 0, 0};
-        int y[] = {0, 0, 1, -1};
+    int m, n;
+
+    void dfs(vector<vector<int>>& grid, int i, int j) {
+        if(i < 0 || i >= m || j < 0 || j >= n || grid[i][j] == 0)
+            return;
+
         grid[i][j] = 0;
-        for(int k = 0; k < 4; k++){
-            int nx = i + x[k];
-            int ny = j + y[k];
-            if(nx >= 0 && nx < grid.size() && ny >= 0 && ny < grid[0].size() && grid[nx][ny] == 1){
-                dfs(grid, nx, ny);
-            }
-        }
+
+        dfs(grid, i + 1, j);
+        dfs(grid, i - 1, j);
+        dfs(grid, i, j + 1);
+        dfs(grid, i, j - 1);
     }
+
 public:
     int numEnclaves(vector<vector<int>>& grid) {
-        for(int i = 0; i < grid[0].size(); i++){
-            if(grid[0][i] == 1){
-                dfs(grid, 0, i);
-            }
-            if(grid[grid.size()-1][i] == 1){
-                dfs(grid, grid.size()-1, i);
-            }
+        m = grid.size();
+        n = grid[0].size();
+
+        for(int i = 0; i < m; i++) {
+            dfs(grid, i, 0);
+            dfs(grid, i, n - 1);
         }
-        for(int i = 0; i < grid.size(); i++){
-            if(grid[i][0] == 1){
-                dfs(grid, i, 0);
-            }
-            if(grid[i][grid[0].size()-1] == 1){
-                dfs(grid, i, grid[0].size()-1);
-            }
+
+        for(int j = 0; j < n; j++) {
+            dfs(grid, 0, j);
+            dfs(grid, m - 1, j);
         }
+
         int count = 0;
-        for(int i = 0; i < grid.size(); i++){
-            for(int j = 0; j < grid[0].size(); j++){
-                if(grid[i][j] == 1){
-                    count++;
-                }
+
+        for(auto &row : grid) {
+            for(int cell : row) {
+                count += cell;
             }
         }
+
         return count;
     }
 };
