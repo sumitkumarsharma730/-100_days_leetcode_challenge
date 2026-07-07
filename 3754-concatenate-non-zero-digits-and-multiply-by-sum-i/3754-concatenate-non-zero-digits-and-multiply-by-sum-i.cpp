@@ -1,21 +1,22 @@
 class Solution {
 public:
     long long sumAndMultiply(int n) {
-        long long ans = 0;
+        long long num = 0;
+        long long place = 1;
         int sum = 0;
-        while(n){
+
+        while (n > 0) {
             int digit = n % 10;
-            if(digit != 0){
-                ans = ans*10 + digit;
+
+            if (digit != 0) {
+                num += digit * place;
+                place *= 10;
                 sum += digit;
             }
+
             n /= 10;
         }
-        long long temp = 0;
-        while (ans > 0) {
-            temp = temp * 10 + ans % 10;
-            ans /= 10;
-        }
-        return 1LL*temp*sum;
+
+        return num * sum;
     }
 };
