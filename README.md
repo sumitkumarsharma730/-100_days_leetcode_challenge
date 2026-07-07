@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/0011-container-with-most-water) |
 | [0130-surrounded-regions](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/0130-surrounded-regions) |
 | [0198-house-robber](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/0200-number-of-islands) |
@@ -94,4 +95,12 @@
 |  |
 | ------- |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
+## Two Pointers
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/0011-container-with-most-water) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
