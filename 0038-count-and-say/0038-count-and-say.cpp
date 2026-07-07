@@ -2,23 +2,26 @@ class Solution {
 public:
     string countAndSay(int n) {
         string ans = "1";
-        if(n == 1){
-            return ans;
-        }
-        for(int i = 1; i < n; i++){
-            string temp = "";
-            for(int j = 0; j < ans.size(); ){
-                int count = 1;
-                int k = j;
-                while(k+1 < ans.size() && ans[k] == ans[k+1]){
+
+        for (int i = 1; i < n; i++) {
+            string temp;
+
+            for (int j = 0; j < ans.size();) {
+                char digit = ans[j];
+                int count = 0;
+
+                while (j < ans.size() && ans[j] == digit) {
                     count++;
-                    k++;
+                    j++;
                 }
-                temp += to_string(count) + ans[j];
-                j += count;
+
+                temp += to_string(count);
+                temp += digit;
             }
+
             ans = temp;
         }
+
         return ans;
     }
 };
