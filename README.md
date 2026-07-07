@@ -103,4 +103,8 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/0011-container-with-most-water) |
+## String
+|  |
+| ------- |
+| [0038-count-and-say](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/0038-count-and-say) |
 <!---LeetCode Topics End-->
