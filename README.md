@@ -50,6 +50,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/0022-generate-parentheses) |
 | [0198-house-robber](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/0198-house-robber) |
 | [0542-01-matrix](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/0542-01-matrix) |
 | [1289-minimum-falling-path-sum-ii](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/1289-minimum-falling-path-sum-ii) |
@@ -106,5 +107,10 @@
 ## String
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/0022-generate-parentheses) |
 | [0038-count-and-say](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/0038-count-and-say) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
