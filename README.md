@@ -97,6 +97,7 @@
 |  |
 | ------- |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -110,9 +111,14 @@
 | ------- |
 | [0022-generate-parentheses](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/0022-generate-parentheses) |
 | [0038-count-and-say](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/0038-count-and-say) |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Backtracking
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/0039-combination-sum) |
+## Prefix Sum
+|  |
+| ------- |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 <!---LeetCode Topics End-->
