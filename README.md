@@ -7,6 +7,7 @@
 | [0011-container-with-most-water](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/0011-container-with-most-water) |
 | [0039-combination-sum](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/0040-combination-sum-ii) |
+| [0049-group-anagrams](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/0049-group-anagrams) |
 | [0130-surrounded-regions](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/0130-surrounded-regions) |
 | [0198-house-robber](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/0200-number-of-islands) |
@@ -96,6 +97,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/0049-group-anagrams) |
 | [1288-remove-covered-intervals](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/1288-remove-covered-intervals) |
 ## Math
 |  |
@@ -115,6 +117,7 @@
 | ------- |
 | [0022-generate-parentheses](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/0022-generate-parentheses) |
 | [0038-count-and-say](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/0038-count-and-say) |
+| [0049-group-anagrams](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/0049-group-anagrams) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Backtracking
 |  |
@@ -132,4 +135,8 @@
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/0209-minimum-size-subarray-sum) |
+## Hash Table
+|  |
+| ------- |
+| [0049-group-anagrams](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/0049-group-anagrams) |
 <!---LeetCode Topics End-->
