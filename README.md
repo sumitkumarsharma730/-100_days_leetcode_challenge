@@ -112,6 +112,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/0011-container-with-most-water) |
+| [0061-rotate-list](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/0061-rotate-list) |
 ## Greedy
 |  |
 | ------- |
@@ -144,4 +145,8 @@
 | ------- |
 | [0049-group-anagrams](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/0049-group-anagrams) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/3532-path-existence-queries-in-a-graph-i) |
+## Linked List
+|  |
+| ------- |
+| [0061-rotate-list](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/0061-rotate-list) |
 <!---LeetCode Topics End-->
