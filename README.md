@@ -19,6 +19,7 @@
 | [1020-number-of-enclaves](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/1020-number-of-enclaves) |
 | [1288-remove-covered-intervals](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/1288-remove-covered-intervals) |
 | [1289-minimum-falling-path-sum-ii](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/1289-minimum-falling-path-sum-ii) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3620-network-recovery-pathways](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/3620-network-recovery-pathways) |
 ## Depth-First Search
 |  |
@@ -66,6 +67,7 @@
 | [0547-number-of-provinces](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/0547-number-of-provinces) |
 | [0743-network-delay-time](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/0743-network-delay-time) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3620-network-recovery-pathways](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/3620-network-recovery-pathways) |
 ## Heap (Priority Queue)
 |  |
@@ -85,10 +87,12 @@
 | [0547-number-of-provinces](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/0547-number-of-provinces) |
 | [1020-number-of-enclaves](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/1020-number-of-enclaves) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Binary Search
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/0209-minimum-size-subarray-sum) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3620-network-recovery-pathways](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/3620-network-recovery-pathways) |
 ## Topological Sort
 |  |
@@ -139,4 +143,5 @@
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/0049-group-anagrams) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/3532-path-existence-queries-in-a-graph-i) |
 <!---LeetCode Topics End-->
