@@ -1,42 +1,40 @@
 class Solution {
 public:
     ListNode* rotateRight(ListNode* head, int k) {
-        int n = 0;
-
-        ListNode* temp = head;
-
-        while (temp != nullptr) {
-            n++;
-            temp = temp->next;
+        if (head == nullptr || head->next == nullptr || k == 0) {
+            return head;
         }
 
-        if (n == 0 || k % n == 0) {
-            return head;
+        int n = 1;
+        ListNode* tail = head;
+
+        // Find length and tail
+        while (tail->next != nullptr) {
+            tail = tail->next;
+            n++;
         }
 
         k = k % n;
 
-        int breakIdx = n - k;
-        int i = 1;
-
-        temp = head;
-
-        while (i < breakIdx) {
-            temp = temp->next;
-            i++;
+        if (k == 0) {
+            return head;
         }
 
-        ListNode* newHead = temp->next;
-
-        temp->next = nullptr;
-
-        ListNode* tail = newHead;
-
-        while (tail->next != nullptr) {
-            tail = tail->next;
-        }
-
+        // Make circular linked list
         tail->next = head;
+
+        int steps = n - k;
+        ListNode* newTail = tail;
+
+        while (steps > 0) {
+            newTail = newTail->next;
+            steps--;
+        }
+
+        ListNode* newHead = newTail->next;
+
+        // Break circular linked list
+        newTail->next = nullptr;
 
         return newHead;
     }
