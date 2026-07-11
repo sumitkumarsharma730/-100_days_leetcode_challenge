@@ -5,65 +5,61 @@
 
 class Solution {
 public:
-    vector<int> parent, sz;
+    vector<int> par;
 
-    int find(int x) {
-        if (parent[x] == x)
-            return x;
-        return parent[x] = find(parent[x]);
+    int find(int x){
+        if(par[x] == x) return x;
+        return par[x] = find(par[x]) ;
     }
 
-    void Union(int u, int v) {
+    void uunion(int u, int v){   // connecting u and v of an edge
         int pu = find(u);
         int pv = find(v);
 
-        if (pu == pv) return;
-
-        // Union by Size
-        if (sz[pu] < sz[pv])
-            swap(pu, pv);
-
-        parent[pv] = pu;
-        sz[pu] += sz[pv];
+        if(pu == pv) return;
+        else{
+            par[pv] = pu;
+        }
     }
 
     int countCompleteComponents(int n, vector<vector<int>>& edges) {
+        par.resize(n);
+        for(int i=0; i<n; i++) par[i] = i; 
 
-        parent.resize(n);
-        sz.assign(n, 1);
-
-        for (int i = 0; i < n; i++)
-            parent[i] = i;
-
-        // Build connected components
-        for (auto &e : edges)
-            Union(e[0], e[1]);
-
-        vector<int> vertices(n, 0);
-        vector<int> edgeCount(n, 0);
-
-        // Count vertices
-        for (int i = 0; i < n; i++) {
-            vertices[find(i)]++;
-        }
-
-        // Count edges
-        for (auto &e : edges) {
-            edgeCount[find(e[0])]++;
-        }
+        vector<int> count(n); // to count no of edges in a connected sub-graph
+        vector<int> size(n); // to count no of nodes connected to parent of subgraph
 
         int ans = 0;
 
-        for (int i = 0; i < n; i++) {
-            if (vertices[i] == 0)
-                continue;
+        for(auto &it:edges){
+            int u = it[0];
+            int v = it[1];
+            int pu = find(u);
+            int pv = find(v);
 
-            int k = vertices[i];
-
-            if (edgeCount[i] == k * (k - 1) / 2)
-                ans++;
+            uunion(pu,pv) ; 
         }
 
-        return ans;
+        for(auto &it : edges){
+            int u = it[0];
+            int v = it[1];
+
+            int pu = find(u);
+
+            count[pu]++;
+        }
+
+        for(int i=0; i<n; i++){
+            int papa = find(i) ;
+            size[papa] ++ ;
+        }
+
+        for(int i=0; i<n; i++){
+            if(size[i] == 0) continue ;
+            int k = size[i];
+            if(count[i] == (k*(k-1))/2) ans++;
+        }
+
+        return ans ;
     }
 };
