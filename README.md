@@ -32,6 +32,7 @@
 | [0743-network-delay-time](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/0743-network-delay-time) |
 | [1020-number-of-enclaves](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/1020-number-of-enclaves) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
+| [2685-count-the-number-of-complete-components](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/2685-count-the-number-of-complete-components) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -44,6 +45,7 @@
 | [0994-rotting-oranges](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/1020-number-of-enclaves) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
+| [2685-count-the-number-of-complete-components](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/2685-count-the-number-of-complete-components) |
 ## Matrix
 |  |
 | ------- |
@@ -69,6 +71,7 @@
 | [0547-number-of-provinces](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/0547-number-of-provinces) |
 | [0743-network-delay-time](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/0743-network-delay-time) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
+| [2685-count-the-number-of-complete-components](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/2685-count-the-number-of-complete-components) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/3620-network-recovery-pathways) |
@@ -90,6 +93,7 @@
 | [0547-number-of-provinces](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/0547-number-of-provinces) |
 | [1020-number-of-enclaves](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/1020-number-of-enclaves) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
+| [2685-count-the-number-of-complete-components](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/2685-count-the-number-of-complete-components) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Binary Search
 |  |
