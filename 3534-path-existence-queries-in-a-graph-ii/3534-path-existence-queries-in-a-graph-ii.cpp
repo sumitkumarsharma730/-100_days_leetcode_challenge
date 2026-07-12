@@ -1,65 +1,63 @@
 class Solution {
 public:
-    vector<int> pathExistenceQueries(
-        int n,
-        vector<int>& nums,
-        int maxDiff,
-        vector<vector<int>>& queries
-    ) {
+    vector<int> pathExistenceQueries(int n, vector<int>& nums, int maxDiff, vector<vector<int>>& queries) {
+        // Store (value, original index)
         vector<pair<int, int>> temp;
-
         for (int i = 0; i < n; i++) {
             temp.push_back({nums[i], i});
         }
 
         sort(temp.begin(), temp.end());
 
+        // Map original index -> sorted index
         vector<int> pos(n);
-
         for (int i = 0; i < n; i++) {
             pos[temp[i].second] = i;
         }
 
+        // Number of binary lifting levels
         int LOG = 1;
-
         while ((1 << LOG) <= n) {
             LOG++;
         }
 
-        vector<vector<int>> jump(LOG, vector<int>(n));
+        // jump[node][k]
+        vector<vector<int>> jump(n, vector<int>(LOG));
 
+        // Two pointers to build first column
         int right = 0;
 
-        // Farthest node reachable in one jump
         for (int i = 0; i < n; i++) {
+
             right = max(right, i);
 
-            while (
-                right + 1 < n &&
-                temp[right + 1].first - temp[i].first <= maxDiff
-            ) {
+            while (right + 1 < n &&
+                   temp[right + 1].first - temp[i].first <= maxDiff) {
                 right++;
             }
 
-            jump[0][i] = right;
+            jump[i][0] = right;
         }
 
-        // Binary lifting
-        for (int k = 1; k < LOG; k++) {
+        // Binary lifting table
+        for (int j = 1; j < LOG; j++) {
+
             for (int i = 0; i < n; i++) {
-                jump[k][i] = jump[k - 1][jump[k - 1][i]];
+
+                jump[i][j] = jump[jump[i][j - 1]][j - 1];
+
             }
         }
 
         vector<int> ans;
 
-        for (auto& query : queries) {
-            int u = pos[query[0]];
-            int v = pos[query[1]];
+        for (auto &q : queries) {
 
-            if (u > v) {
+            int u = pos[q[0]];
+            int v = pos[q[1]];
+
+            if (u > v)
                 swap(u, v);
-            }
 
             if (u == v) {
                 ans.push_back(0);
@@ -69,19 +67,20 @@ public:
             int curr = u;
             int steps = 0;
 
-            for (int k = LOG - 1; k >= 0; k--) {
-                if (jump[k][curr] < v) {
-                    curr = jump[k][curr];
-                    steps += (1 << k);
+            for (int j = LOG - 1; j >= 0; j--) {
+
+                if (jump[curr][j] < v) {
+
+                    curr = jump[curr][j];
+                    steps += (1 << j);
+
                 }
             }
 
-            if (jump[0][curr] >= v) {
+            if (jump[curr][0] >= v)
                 ans.push_back(steps + 1);
-            }
-            else {
+            else
                 ans.push_back(-1);
-            }
         }
 
         return ans;
