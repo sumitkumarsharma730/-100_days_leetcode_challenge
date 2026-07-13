@@ -2,33 +2,21 @@ class Solution {
 public:
     vector<int> sequentialDigits(int low, int high) {
 
-        int start = to_string(low).size();
-        int end = to_string(high).size();
-
-        vector<int> ones(end + 1);
-
-        ones[1] = 1;
-
-        for (int i = 2; i <= end; i++)
-            ones[i] = ones[i - 1] * 10 + 1;
+        string s = "123456789";
 
         vector<int> ans;
 
-        for (int len = start; len <= end; len++) {
+        int l = to_string(low).size();
+        int r = to_string(high).size();
 
-            int first = 0;
+        for (int len = l; len <= r; len++) {
 
-            for (int i = 1; i <= len; i++)
-                first = first * 10 + i;
+            for (int i = 0; i + len <= 9; i++) {
 
-            int cur = first;
+                int num = stoi(s.substr(i, len));
 
-            while (cur % 10 != 0) {
-
-                if (cur >= low && cur <= high)
-                    ans.push_back(cur);
-
-                cur += ones[len];
+                if (num >= low && num <= high)
+                    ans.push_back(num);
             }
         }
 
