@@ -195,4 +195,8 @@
 |  |
 | ------- |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+## Enumeration
+|  |
+| ------- |
+| [1291-sequential-digits](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/1291-sequential-digits) |
 <!---LeetCode Topics End-->
