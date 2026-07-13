@@ -1,32 +1,37 @@
 class Solution {
 public:
     vector<int> sequentialDigits(int low, int high) {
-        int n = 0;
-        int temp = high;
-        while(temp > 0){
-            n++;
-            temp /= 10;
-        }
 
-        vector<long long> v(n, 1);
-        for(int i = 1; i < n; i++){
-            v[i] = v[i-1] * 10 + 1;
-        }
+        int start = to_string(low).size();
+        int end = to_string(high).size();
+
+        vector<int> ones(end + 1);
+
+        ones[1] = 1;
+
+        for (int i = 2; i <= end; i++)
+            ones[i] = ones[i - 1] * 10 + 1;
 
         vector<int> ans;
-        long long value = 0;
-        for(int i = 0; i < n; i++){
-            value += v[i];
-            long long seq = value;
-            while(seq % 10 != 0 && seq <= high){
-                if( seq >= low ){
-                    ans.push_back(seq);
-                }
-                seq += v[i];
+
+        for (int len = start; len <= end; len++) {
+
+            int first = 0;
+
+            for (int i = 1; i <= len; i++)
+                first = first * 10 + i;
+
+            int cur = first;
+
+            while (cur % 10 != 0) {
+
+                if (cur >= low && cur <= high)
+                    ans.push_back(cur);
+
+                cur += ones[len];
             }
         }
 
         return ans;
-        
     }
 };
