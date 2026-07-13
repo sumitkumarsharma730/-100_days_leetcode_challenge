@@ -29,6 +29,7 @@
 | ------- |
 | [0130-surrounded-regions](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/0200-number-of-islands) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0547-number-of-provinces](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/0743-network-delay-time) |
@@ -182,6 +183,7 @@
 ## Tree
 |  |
 | ------- |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/1483-kth-ancestor-of-a-tree-node) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
@@ -189,4 +191,8 @@
 |  |
 | ------- |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/1483-kth-ancestor-of-a-tree-node) |
+## Binary Tree
+|  |
+| ------- |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 <!---LeetCode Topics End-->
