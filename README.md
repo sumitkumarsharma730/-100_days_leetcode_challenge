@@ -128,6 +128,7 @@
 ## Math
 |  |
 | ------- |
+| [1071-greatest-common-divisor-of-strings](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
@@ -150,6 +151,7 @@
 | [0022-generate-parentheses](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/0022-generate-parentheses) |
 | [0038-count-and-say](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/0038-count-and-say) |
 | [0049-group-anagrams](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/0049-group-anagrams) |
+| [1071-greatest-common-divisor-of-strings](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/1071-greatest-common-divisor-of-strings) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Backtracking
 |  |
