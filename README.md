@@ -23,6 +23,7 @@
 | [1289-minimum-falling-path-sum-ii](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/1289-minimum-falling-path-sum-ii) |
 | [1331-rank-transform-of-an-array](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/1331-rank-transform-of-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
@@ -74,6 +75,7 @@
 | [0542-01-matrix](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/0542-01-matrix) |
 | [1289-minimum-falling-path-sum-ii](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/1289-minimum-falling-path-sum-ii) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/1483-kth-ancestor-of-a-tree-node) |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3620-network-recovery-pathways](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/3620-network-recovery-pathways) |
@@ -132,6 +134,7 @@
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
@@ -214,6 +217,7 @@
 | ------- |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 ## Counting
 |  |
 | ------- |
