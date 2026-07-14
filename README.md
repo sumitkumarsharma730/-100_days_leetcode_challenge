@@ -16,6 +16,7 @@
 | [0238-product-of-array-except-self](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/0238-product-of-array-except-self) |
 | [0542-01-matrix](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/0733-flood-fill) |
+| [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [0994-rotting-oranges](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/1020-number-of-enclaves) |
 | [1288-remove-covered-intervals](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/1288-remove-covered-intervals) |
@@ -128,6 +129,7 @@
 ## Math
 |  |
 | ------- |
+| [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
@@ -174,6 +176,7 @@
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/0049-group-anagrams) |
+| [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [1331-rank-transform-of-an-array](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/1331-rank-transform-of-an-array) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Linked List
@@ -209,5 +212,10 @@
 ## Number Theory
 |  |
 | ------- |
+| [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/1979-find-greatest-common-divisor-of-array) |
+## Counting
+|  |
+| ------- |
+| [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 <!---LeetCode Topics End-->
