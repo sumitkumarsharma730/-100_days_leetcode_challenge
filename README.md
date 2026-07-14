@@ -21,6 +21,7 @@
 | [1288-remove-covered-intervals](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/1288-remove-covered-intervals) |
 | [1289-minimum-falling-path-sum-ii](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/1289-minimum-falling-path-sum-ii) |
 | [1331-rank-transform-of-an-array](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/1331-rank-transform-of-an-array) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
@@ -127,6 +128,7 @@
 ## Math
 |  |
 | ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
@@ -202,4 +204,8 @@
 |  |
 | ------- |
 | [1291-sequential-digits](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/1291-sequential-digits) |
+## Number Theory
+|  |
+| ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/1979-find-greatest-common-divisor-of-array) |
 <!---LeetCode Topics End-->
