@@ -1,39 +1,49 @@
+// Bottom-Up Solution
+/*
+Time Complexity : O(n * 201 * 201)
+Space Complexity: O(201 * 201)
+*/
+
 class Solution {
 public:
     static const int MOD = 1e9 + 7;
 
-    int memo[201][201][201];
+    int subsequencePairCount(vector<int>& nums) {
 
-    int solve(int index, int gcd1, int gcd2, vector<int>& nums) {
-        if (index == nums.size()) {
-            return (gcd1 == gcd2 && gcd1 != 0);
+        vector<vector<int>> dp(201, vector<int>(201, 0));
+        dp[0][0] = 1;
+
+        for (int x : nums) {
+
+            vector<vector<int>> next = dp;
+
+            for (int g1 = 0; g1 <= 200; g1++) {
+
+                for (int g2 = 0; g2 <= 200; g2++) {
+
+                    if (dp[g1][g2] == 0)
+                        continue;
+
+                    // Put x into first subsequence
+                    int ng1 = gcd(g1, x);
+                    next[ng1][g2] =
+                        (next[ng1][g2] + dp[g1][g2]) % MOD;
+
+                    // Put x into second subsequence
+                    int ng2 = gcd(g2, x);
+                    next[g1][ng2] =
+                        (next[g1][ng2] + dp[g1][g2]) % MOD;
+                }
+            }
+
+            dp = move(next);
         }
-
-        if (memo[index][gcd1][gcd2] != -1)
-            return memo[index][gcd1][gcd2];
 
         long long ans = 0;
 
-        // 1. Skip current element
-        ans += solve(index + 1, gcd1, gcd2, nums);
+        for (int g = 1; g <= 200; g++)
+            ans = (ans + dp[g][g]) % MOD;
 
-        // 2. Put in first subsequence
-        ans += solve(index + 1,
-                     gcd(gcd1, nums[index]),
-                     gcd2,
-                     nums);
-
-        // 3. Put in second subsequence
-        ans += solve(index + 1,
-                     gcd1,
-                     gcd(gcd2, nums[index]),
-                     nums);
-
-        return memo[index][gcd1][gcd2] = ans % MOD;
-    }
-
-    int subsequencePairCount(vector<int>& nums) {
-        memset(memo, -1, sizeof(memo));
-        return solve(0, 0, 0, nums);
+        return ans;
     }
 };
