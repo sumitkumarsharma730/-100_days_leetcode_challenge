@@ -1,3 +1,6 @@
+// Time  : O(n² logM)
+// Space : O(1)
+// where M is the maximum array value
 class Solution {
 public:
     int subarrayGCD(vector<int>& nums, int k) {
