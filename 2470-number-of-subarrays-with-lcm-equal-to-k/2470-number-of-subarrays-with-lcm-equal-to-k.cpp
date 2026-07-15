@@ -1,22 +1,29 @@
+// Time: O(n² · log V)
+// Space: O(1)
 class Solution {
 public:
     int subarrayLCM(vector<int>& nums, int k) {
+
         int ans = 0;
-        int n = nums.size();
-        for(int i = 0; i < n; i++){
-            int LCM = 1;
-            for(int j = i; j < n; j++){
-                int temp = nums[j];
-                if(LCM < temp){
-                    swap(LCM, temp);
-                }
-                if(LCM % temp != 0){
-                    LCM = LCM*temp/gcd(LCM, temp);
-                }
-                if(LCM == k) ans++;
-                else if(LCM > k) break;
+
+        for (int i = 0; i < nums.size(); i++) {
+
+            long long lcm = 1;
+
+            for (int j = i; j < nums.size(); j++) {
+
+                if (k % nums[j] != 0)
+                    break;
+
+                lcm = lcm / gcd(lcm, 1LL * nums[j]) * nums[j];
+
+                if (lcm == k)
+                    ans++;
+                else if (lcm > k)
+                    break;
             }
         }
+
         return ans;
     }
 };
