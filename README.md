@@ -137,6 +137,7 @@
 | ------- |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/1071-greatest-common-divisor-of-strings) |
+| [1492-the-kth-factor-of-n](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/1492-the-kth-factor-of-n) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2447-number-of-subarrays-with-gcd-equal-to-k](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/2447-number-of-subarrays-with-gcd-equal-to-k) |
 | [2470-number-of-subarrays-with-lcm-equal-to-k](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/2470-number-of-subarrays-with-lcm-equal-to-k) |
@@ -224,6 +225,7 @@
 |  |
 | ------- |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
+| [1492-the-kth-factor-of-n](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/1492-the-kth-factor-of-n) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2447-number-of-subarrays-with-gcd-equal-to-k](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/2447-number-of-subarrays-with-gcd-equal-to-k) |
 | [2470-number-of-subarrays-with-lcm-equal-to-k](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/2470-number-of-subarrays-with-lcm-equal-to-k) |
