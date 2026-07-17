@@ -10,7 +10,7 @@ public:
         int g = 0;
 
         for (int x : nums) {  // O(n)
-            g = gcd(g, x);    // O(logM)
+            g = __gcd(g, x);    // O(logM)
             if (g == 1)
                 return true;
         }
