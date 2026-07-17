@@ -39,6 +39,7 @@
 | [0130-surrounded-regions](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/0200-number-of-islands) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0365-water-and-jug-problem](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/0365-water-and-jug-problem) |
 | [0547-number-of-provinces](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/0743-network-delay-time) |
@@ -53,6 +54,7 @@
 | ------- |
 | [0130-surrounded-regions](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/0200-number-of-islands) |
+| [0365-water-and-jug-problem](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/0365-water-and-jug-problem) |
 | [0542-01-matrix](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/0733-flood-fill) |
@@ -138,6 +140,7 @@
 ## Math
 |  |
 | ------- |
+| [0365-water-and-jug-problem](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/0365-water-and-jug-problem) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1250-check-if-it-is-a-good-array](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/1250-check-if-it-is-a-good-array) |
