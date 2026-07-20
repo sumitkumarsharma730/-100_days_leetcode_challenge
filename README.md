@@ -20,6 +20,7 @@
 | [0994-rotting-oranges](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/1020-number-of-enclaves) |
 | [1250-check-if-it-is-a-good-array](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/1250-check-if-it-is-a-good-array) |
+| [1260-shift-2d-grid](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/1288-remove-covered-intervals) |
 | [1289-minimum-falling-path-sum-ii](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/1289-minimum-falling-path-sum-ii) |
 | [1331-rank-transform-of-an-array](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/1331-rank-transform-of-an-array) |
@@ -73,6 +74,7 @@
 | [0733-flood-fill](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/1020-number-of-enclaves) |
+| [1260-shift-2d-grid](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/1260-shift-2d-grid) |
 | [1289-minimum-falling-path-sum-ii](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/1289-minimum-falling-path-sum-ii) |
 ## Dynamic Programming
 |  |
@@ -256,6 +258,7 @@
 ## Simulation
 |  |
 | ------- |
+| [1260-shift-2d-grid](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/1260-shift-2d-grid) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Combinatorics
 |  |
