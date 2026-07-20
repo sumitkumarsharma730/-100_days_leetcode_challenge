@@ -6,36 +6,18 @@ public:
         int total = n * m;
 
         k %= total;
-        if (k == 0) return grid;
 
         vector<vector<int>> ans(n, vector<int>(m));
 
-        int idx = total - k;
-        int row = idx / m;
-        int col = idx % m;
+        for (int i = 0; i < total; i++) {
+            int oldRow = i / m;
+            int oldCol = i % m;
 
-        int a = 0;
+            int newIndex = (i + k) % total;
+            int newRow = newIndex / m;
+            int newCol = newIndex % m;
 
-        // Copy from (row, col) to the end
-        for (int i = row; i < n; i++) {
-            int start = (i == row ? col : 0);
-            for (int j = start; j < m; j++) {
-                int r = a / m;
-                int c = a % m;
-                ans[r][c] = grid[i][j];
-                a++;
-            }
-        }
-
-        // Copy from beginning to (row, col)
-        for (int i = 0; i <= row; i++) {
-            int end = (i == row ? col : m);
-            for (int j = 0; j < end; j++) {
-                int r = a / m;
-                int c = a % m;
-                ans[r][c] = grid[i][j];
-                a++;
-            }
+            ans[newRow][newCol] = grid[oldRow][oldCol];
         }
 
         return ans;
