@@ -1,46 +1,42 @@
 // T.C -> O(n)
-// S.C -> O(n)
+// S.C -> O(1)
 
-// Here's the O(n) solution using run-length encoding(RLE).
+// One thing to verify
 
-// Idea
-// Add a '1' to both ends of the string. This makes every valid trade occur on an internal 1 block.
-// Compress the string into runs.
-// Count the original number of '1's.
-// For every pattern
-// 0-run, 1-run, 0-run
+// Your code assumes that every pair of consecutive zero runs has a 1-block between them, which is true because runs alternate. That's why it works.
 
-// compute the active sections after the trade:
+// 0 111 0  -> 0 000 0 -> 1 111 1 -> ans = 5 (maximum no. of ones + maximum(left_zero + right_zero))
 
-// totalOnes + leftZero + rightZero
+// 0000 11 00 1 0000000 
+// total ones = 3;     ans >= 3
 
-// Take the maximum.
+// left_zero + right_zero = 4 + 2 = 6    first consecutive zero run
+// left_zero + right_zero = 2 + 7 = 9    second consecutve zero run   <-- maximum
+
+// ans = ones + maximum = 3 + 9 = 12 <-----------------------!!!!!!!!!!!!!!
+
 
 class Solution {
 public:
     int maxActiveSectionsAfterTrade(string s) {
-        int ones = 0;
-        for (char c : s)
-            ones += (c == '1');
-
-        s = "1" + s + "1";
-
-        vector<pair<char,int>> runs;
-
-        for (char c : s) {
-            if (runs.empty() || runs.back().first != c)
-                runs.push_back({c,1});
-            else
-                runs.back().second++;
+        int n = s.size(), maximum = 0, ones = 0, prevRun = -1, i = 0; 
+        while(i < n){
+            if(s[i] == '1'){
+                ones++;
+                i++;
+            }
+            else{
+                int currRun = 0;
+                while(i < n && s[i] == '0'){
+                    currRun++;
+                    i++;
+                }
+                if(prevRun > 0){
+                    maximum = max(maximum, prevRun + currRun);
+                }
+                prevRun = currRun;
+            }
         }
-
-        int ans = ones;
-
-        for (int i = 2; i + 2 < runs.size(); i += 2) {
-            // runs[i] is an internal 1-block
-            ans = max(ans, ones + runs[i-1].second + runs[i+1].second);
-        }
-
-        return ans;
+        return ones + maximum;
     }
 };
