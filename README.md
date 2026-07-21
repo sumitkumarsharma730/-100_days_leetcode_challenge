@@ -229,6 +229,7 @@
 ## Design
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/0225-implement-stack-using-queues) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/1483-kth-ancestor-of-a-tree-node) |
 ## Binary Tree
 |  |
@@ -271,9 +272,14 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/0020-valid-parentheses) |
+| [0225-implement-stack-using-queues](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/0225-implement-stack-using-queues) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+## Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
