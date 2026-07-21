@@ -19,34 +19,26 @@
 class Solution {
 public:
     int maxActiveSectionsAfterTrade(string s) {
-        int totalOnes = 0;
+        int ones = 0;
         for (char c : s)
-            totalOnes += (c == '1');
+            ones += (c == '1');
 
-        // Add sentinels
         s = "1" + s + "1";
 
-        vector<pair<char, int>> runs;
+        vector<pair<char,int>> runs;
 
         for (char c : s) {
             if (runs.empty() || runs.back().first != c)
-                runs.push_back({c, 1});
+                runs.push_back({c,1});
             else
                 runs.back().second++;
         }
 
-        int ans = totalOnes;
+        int ans = ones;
 
-        for (int i = 1; i + 1 < runs.size(); i++) {
-            if (runs[i].first == '1' &&
-                runs[i - 1].first == '0' &&
-                runs[i + 1].first == '0') {
-
-                ans = max(ans,
-                          totalOnes +
-                          runs[i - 1].second +
-                          runs[i + 1].second);
-            }
+        for (int i = 2; i + 2 < runs.size(); i += 2) {
+            // runs[i] is an internal 1-block
+            ans = max(ans, ones + runs[i-1].second + runs[i+1].second);
         }
 
         return ans;
