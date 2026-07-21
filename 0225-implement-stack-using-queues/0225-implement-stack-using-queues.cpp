@@ -1,3 +1,9 @@
+// Complexity
+// Operation	Time
+// push	        O(n) ********************
+// pop	        O(1)
+// top	        O(1)
+// empty	    O(1)
 class MyStack {
 private:
     queue<int> q;
@@ -10,8 +16,8 @@ public:
 
         int n = q.size();
 
-        while (n > 1) {
-            q.push(q.front());
+        while (n > 1) {    // O(n)
+            q.push(q.front()); 
             q.pop();
             n--;
         }
