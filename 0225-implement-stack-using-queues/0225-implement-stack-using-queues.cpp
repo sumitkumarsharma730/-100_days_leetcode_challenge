@@ -1,29 +1,33 @@
-// This sol. is wrong because question tells use Queues not array and linkedlist
-
 class MyStack {
 private:
-    static const int MAX = 100;
-    int arr[MAX];
-    int topIndex;
+    queue<int> q;
 
 public:
-    MyStack() {
-        topIndex = -1;
-    }
+    MyStack() {}
 
     void push(int x) {
-        arr[++topIndex] = x;
+        q.push(x);
+
+        int n = q.size();
+
+        while (n > 1) {
+            q.push(q.front());
+            q.pop();
+            n--;
+        }
     }
 
     int pop() {
-        return arr[topIndex--];
+        int x = q.front();
+        q.pop();
+        return x;
     }
 
     int top() {
-        return arr[topIndex];
+        return q.front();
     }
 
     bool empty() {
-        return topIndex == -1;
+        return q.empty();
     }
 };
