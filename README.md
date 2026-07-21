@@ -180,6 +180,7 @@
 | [0049-group-anagrams](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/0049-group-anagrams) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [3499-maximize-active-section-with-trade-i](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Backtracking
 |  |
@@ -238,6 +239,7 @@
 | ------- |
 | [1291-sequential-digits](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/1291-sequential-digits) |
 | [2427-number-of-common-factors](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/2427-number-of-common-factors) |
+| [3499-maximize-active-section-with-trade-i](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/3499-maximize-active-section-with-trade-i) |
 ## Number Theory
 |  |
 | ------- |
