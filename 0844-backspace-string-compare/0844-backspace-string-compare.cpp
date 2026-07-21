@@ -1,3 +1,5 @@
+//T.C -> O(n² + m²)
+// S.C -> (n + m)
 class Solution {
 public:
     bool backspaceCompare(string s, string t) {
@@ -9,7 +11,7 @@ public:
                     str.pop_back();
             }
             else{
-                str = str + s[i];
+                str = str + s[i];   // Each concatenation copies all previous characters.  Cost Analysis  ---> O(n²)
             }
         }
         int m = t.size();
@@ -26,3 +28,22 @@ public:
         return str == str2;
     }
 };
+
+
+/*
+Small Optimization
+
+Instead of
+
+str = str + s[i];
+
+use
+
+str.push_back(s[i]);
+
+Similarly,
+
+str2.push_back(t[i]);
+
+Now each insertion is amortized O(1).
+*/
