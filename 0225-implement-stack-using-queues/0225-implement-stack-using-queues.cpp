@@ -1,51 +1,29 @@
+// This sol. is wrong because question tells use Queues not array and linkedlist
+
 class MyStack {
+private:
+    static const int MAX = 100;
+    int arr[MAX];
+    int topIndex;
+
 public:
-    static const int Max = 100;
-    int *arr;
-    int capacity = -1;
     MyStack() {
-        arr = new int[Max];
-        cout << "null" << endl;
+        topIndex = -1;
     }
-    
+
     void push(int x) {
-        if(capacity == Max-1){
-            cout << "Overflow" << endl;
-        }
-        else{
-            capacity++;
-            arr[capacity] = x;
-            cout << "null" << endl;
-        }
+        arr[++topIndex] = x;
     }
-    
+
     int pop() {
-        if(capacity == -1){
-            return -1;
-        }
-        int value = arr[capacity];
-        capacity--;
-        return value;
+        return arr[topIndex--];
     }
-    
+
     int top() {
-        if(capacity == -1){
-            return -1;
-        }
-        return arr[capacity];
+        return arr[topIndex];
     }
-    
+
     bool empty() {
-        if(capacity == -1) return true;
-        return false;
+        return topIndex == -1;
     }
 };
-
-/**
- * Your MyStack object will be instantiated and called as such:
- * MyStack* obj = new MyStack();
- * obj->push(x);
- * int param_2 = obj->pop();
- * int param_3 = obj->top();
- * bool param_4 = obj->empty();
- */
