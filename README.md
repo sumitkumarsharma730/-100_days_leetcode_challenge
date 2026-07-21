@@ -15,6 +15,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/0238-product-of-array-except-self) |
 | [0542-01-matrix](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/0542-01-matrix) |
+| [0682-baseball-game](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/0682-baseball-game) |
 | [0733-flood-fill](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/0733-flood-fill) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [0994-rotting-oranges](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/0994-rotting-oranges) |
@@ -262,6 +263,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0682-baseball-game](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/0682-baseball-game) |
 | [1260-shift-2d-grid](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/1260-shift-2d-grid) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Combinatorics
@@ -273,6 +275,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/0020-valid-parentheses) |
 | [0225-implement-stack-using-queues](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/0225-implement-stack-using-queues) |
+| [0682-baseball-game](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/0682-baseball-game) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Monotonic Stack
 |  |
