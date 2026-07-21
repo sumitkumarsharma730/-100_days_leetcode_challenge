@@ -1,31 +1,57 @@
 //T.C -> O(n + m)
-// S.C -> O(n + m)
+// S.C -> O(1)
 class Solution {
 public:
     bool backspaceCompare(string s, string t) {
 
-        string a, b;
+        int i = s.size() - 1;
+        int j = t.size() - 1;
 
-        for(char c : s){
-            if(c == '#'){
-                if(!a.empty())
-                    a.pop_back();
+        int skipS = 0;
+        int skipT = 0;
+
+        while(i >= 0 || j >= 0){
+
+            while(i >= 0){
+                if(s[i] == '#'){
+                    skipS++;
+                    i--;
+                }
+                else if(skipS){
+                    skipS--;
+                    i--;
+                }
+                else{
+                    break;
+                }
             }
-            else{
-                a.push_back(c);
+
+            while(j >= 0){
+                if(t[j] == '#'){
+                    skipT++;
+                    j--;
+                }
+                else if(skipT){
+                    skipT--;
+                    j--;
+                }
+                else{
+                    break;
+                }
             }
+
+            if(i >= 0 && j >= 0){
+                if(s[i] != t[j])
+                    return false;
+            }
+            else if(i >= 0 || j >= 0){
+                return false;
+            }
+
+            i--;
+            j--;
         }
 
-        for(char c : t){
-            if(c == '#'){
-                if(!b.empty())
-                    b.pop_back();
-            }
-            else{
-                b.push_back(c);
-            }
-        }
-
-        return a == b;
+        return true;
     }
 };
