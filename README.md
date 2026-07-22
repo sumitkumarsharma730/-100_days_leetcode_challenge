@@ -14,6 +14,7 @@
 | [0200-number-of-islands](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/0238-product-of-array-except-self) |
+| [0496-next-greater-element-i](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/0496-next-greater-element-i) |
 | [0542-01-matrix](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/0542-01-matrix) |
 | [0682-baseball-game](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/0682-baseball-game) |
 | [0733-flood-fill](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/0733-flood-fill) |
@@ -210,6 +211,7 @@
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/0049-group-anagrams) |
+| [0496-next-greater-element-i](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/0496-next-greater-element-i) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [1331-rank-transform-of-an-array](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/1331-rank-transform-of-an-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/3312-sorted-gcd-pair-queries) |
@@ -281,12 +283,14 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/0020-valid-parentheses) |
 | [0225-implement-stack-using-queues](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/0225-implement-stack-using-queues) |
+| [0496-next-greater-element-i](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/0844-backspace-string-compare) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Monotonic Stack
 |  |
 | ------- |
+| [0496-next-greater-element-i](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/0496-next-greater-element-i) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Queue
 |  |
