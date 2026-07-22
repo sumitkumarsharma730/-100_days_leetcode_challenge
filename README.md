@@ -30,6 +30,7 @@
 | [2470-number-of-subarrays-with-lcm-equal-to-k](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/2470-number-of-subarrays-with-lcm-equal-to-k) |
 | [3312-sorted-gcd-pair-queries](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
@@ -125,6 +126,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/0209-minimum-size-subarray-sum) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/1483-kth-ancestor-of-a-tree-node) |
 | [3312-sorted-gcd-pair-queries](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/3312-sorted-gcd-pair-queries) |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/3620-network-recovery-pathways) |
@@ -184,6 +186,7 @@
 | [1071-greatest-common-divisor-of-strings](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/3499-maximize-active-section-with-trade-i) |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Backtracking
 |  |
@@ -289,4 +292,8 @@
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/0225-implement-stack-using-queues) |
+## Segment Tree
+|  |
+| ------- |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/3501-maximize-active-section-with-trade-ii) |
 <!---LeetCode Topics End-->
