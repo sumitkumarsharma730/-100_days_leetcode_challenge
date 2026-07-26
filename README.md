@@ -250,6 +250,7 @@
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/0232-implement-queue-using-stacks) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/1483-kth-ancestor-of-a-tree-node) |
 ## Binary Tree
 |  |
@@ -297,6 +298,7 @@
 | [0020-valid-parentheses](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/0020-valid-parentheses) |
 | [0084-largest-rectangle-in-histogram](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/0084-largest-rectangle-in-histogram) |
 | [0225-implement-stack-using-queues](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/0232-implement-queue-using-stacks) |
 | [0496-next-greater-element-i](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/0844-backspace-string-compare) |
@@ -311,6 +313,7 @@
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/0232-implement-queue-using-stacks) |
 ## Segment Tree
 |  |
 | ------- |
