@@ -1,19 +1,21 @@
 class Solution {
 public:
     int maxProduct(int n) {
-        int digit1 = 0;
-        int digit2 = 0;
-        while(n > 0){
+        int first = -1, second = -1;
+
+        while (n) {
             int digit = n % 10;
-            if(digit1 < digit){
-                digit2 = digit1;
-                digit1 = digit;
+
+            if (digit >= first) {
+                second = first;
+                first = digit;
+            } else if (digit > second) {
+                second = digit;
             }
-            else if(digit2 < digit){
-                digit2 = digit;
-            }
+
             n /= 10;
         }
-        return digit1*digit2;
+
+        return first * second;
     }
 };
