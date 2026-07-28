@@ -6,22 +6,26 @@ public:
         for (char c : s)
             freq[c - 'a']++;
 
-        string firstHalf;
-        char middle = '\0';
+        int n = s.size();
+        string ans(n, ' ');
+
+        int left = 0;
+        int right = n - 1;
 
         for (int i = 0; i < 26; i++) {
-            if (freq[i] & 1)
-                middle = 'a' + i;
+            while (freq[i] >= 2) {
+                ans[left++] = 'a' + i;
+                ans[right--] = 'a' + i;
+                freq[i] -= 2;
+            }
 
-            firstHalf.append(freq[i] / 2, 'a' + i);
+            if (freq[i] == 1)
+                ans[n / 2] = 'a' + i;
         }
 
-        string secondHalf = firstHalf;
-        reverse(secondHalf.begin(), secondHalf.end());
-
-        if (middle != '\0')
-            return firstHalf + middle + secondHalf;
-
-        return firstHalf + secondHalf;
+        return ans;
     }
 };
+// Complexity
+// Time: O(n)
+// Space: O(n) (only the answer string)
