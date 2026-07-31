@@ -163,6 +163,7 @@
 | [2427-number-of-common-factors](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/2427-number-of-common-factors) |
 | [2447-number-of-subarrays-with-gcd-equal-to-k](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/2447-number-of-subarrays-with-gcd-equal-to-k) |
 | [2470-number-of-subarrays-with-lcm-equal-to-k](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/2470-number-of-subarrays-with-lcm-equal-to-k) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3312-sorted-gcd-pair-queries](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -187,6 +188,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/0011-container-with-most-water) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## String
 |  |
@@ -198,6 +200,7 @@
 | [0844-backspace-string-compare](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/0844-backspace-string-compare) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/3517-smallest-palindromic-rearrangement-i) |
