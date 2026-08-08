@@ -95,6 +95,7 @@
 | ------- |
 | [0022-generate-parentheses](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/0022-generate-parentheses) |
 | [0198-house-robber](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/0198-house-robber) |
+| [0392-is-subsequence](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/0392-is-subsequence) |
 | [0486-predict-the-winner](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/0486-predict-the-winner) |
 | [0542-01-matrix](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/0542-01-matrix) |
 | [0877-stone-game](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/0877-stone-game) |
@@ -196,6 +197,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/0011-container-with-most-water) |
 | [0061-rotate-list](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/0061-rotate-list) |
+| [0392-is-subsequence](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/0392-is-subsequence) |
 | [0844-backspace-string-compare](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/0844-backspace-string-compare) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -215,6 +217,7 @@
 | [0022-generate-parentheses](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/0022-generate-parentheses) |
 | [0038-count-and-say](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/0038-count-and-say) |
 | [0049-group-anagrams](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/0049-group-anagrams) |
+| [0392-is-subsequence](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/0392-is-subsequence) |
 | [0844-backspace-string-compare](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/0844-backspace-string-compare) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/1081-smallest-subsequence-of-distinct-characters) |
