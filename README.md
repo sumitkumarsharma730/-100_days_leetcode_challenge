@@ -17,6 +17,7 @@
 | [0238-product-of-array-except-self](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/0238-product-of-array-except-self) |
 | [0486-predict-the-winner](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/0486-predict-the-winner) |
 | [0496-next-greater-element-i](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/0503-next-greater-element-ii) |
 | [0542-01-matrix](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/0542-01-matrix) |
 | [0682-baseball-game](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/0682-baseball-game) |
 | [0733-flood-fill](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/0733-flood-fill) |
@@ -338,6 +339,7 @@
 | [0225-implement-stack-using-queues](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/0232-implement-queue-using-stacks) |
 | [0496-next-greater-element-i](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/0503-next-greater-element-ii) |
 | [0682-baseball-game](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/0844-backspace-string-compare) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -346,6 +348,7 @@
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/0084-largest-rectangle-in-histogram) |
 | [0496-next-greater-element-i](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/0503-next-greater-element-ii) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Queue
 |  |
