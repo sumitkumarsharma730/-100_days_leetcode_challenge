@@ -264,6 +264,7 @@
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/0049-group-anagrams) |
+| [0460-lfu-cache](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/0460-lfu-cache) |
 | [0496-next-greater-element-i](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/0496-next-greater-element-i) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [0930-binary-subarrays-with-sum](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/0930-binary-subarrays-with-sum) |
@@ -278,6 +279,7 @@
 |  |
 | ------- |
 | [0061-rotate-list](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/0061-rotate-list) |
+| [0460-lfu-cache](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/0460-lfu-cache) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -299,6 +301,7 @@
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/0232-implement-queue-using-stacks) |
+| [0460-lfu-cache](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/0460-lfu-cache) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/1483-kth-ancestor-of-a-tree-node) |
 ## Binary Tree
 |  |
@@ -410,4 +413,8 @@
 |  |
 | ------- |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/2213-longest-substring-of-one-repeating-character) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0460-lfu-cache](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/0460-lfu-cache) |
 <!---LeetCode Topics End-->
