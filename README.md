@@ -38,6 +38,7 @@
 | [2213-longest-substring-of-one-repeating-character](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2447-number-of-subarrays-with-gcd-equal-to-k](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/2447-number-of-subarrays-with-gcd-equal-to-k) |
 | [2470-number-of-subarrays-with-lcm-equal-to-k](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/2470-number-of-subarrays-with-lcm-equal-to-k) |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3312-sorted-gcd-pair-queries](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/3501-maximize-active-section-with-trade-ii) |
@@ -142,6 +143,7 @@
 | [1020-number-of-enclaves](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/1020-number-of-enclaves) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/2685-count-the-number-of-complete-components) |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Binary Search
 |  |
@@ -163,6 +165,7 @@
 | [0049-group-anagrams](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/0049-group-anagrams) |
 | [1288-remove-covered-intervals](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/1331-rank-transform-of-an-array) |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/3534-path-existence-queries-in-a-graph-ii) |
