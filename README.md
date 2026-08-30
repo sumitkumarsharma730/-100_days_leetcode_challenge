@@ -35,6 +35,7 @@
 | [1331-rank-transform-of-an-array](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/1331-rank-transform-of-an-array) |
 | [1406-stone-game-iii](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/1406-stone-game-iii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2447-number-of-subarrays-with-gcd-equal-to-k](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/2447-number-of-subarrays-with-gcd-equal-to-k) |
 | [2470-number-of-subarrays-with-lcm-equal-to-k](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/2470-number-of-subarrays-with-lcm-equal-to-k) |
@@ -217,6 +218,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/0011-container-with-most-water) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/3348-smallest-divisible-digit-product-ii) |
