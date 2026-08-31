@@ -290,6 +290,7 @@
 | ------- |
 | [0061-rotate-list](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/0061-rotate-list) |
 | [0460-lfu-cache](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/0460-lfu-cache) |
+| [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 ## Bit Manipulation
 |  |
 | ------- |
