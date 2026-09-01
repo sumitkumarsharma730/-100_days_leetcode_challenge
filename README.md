@@ -48,6 +48,7 @@
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3620-network-recovery-pathways](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/3620-network-recovery-pathways) |
 | [3731-find-missing-elements](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -84,6 +85,7 @@
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/2685-count-the-number-of-complete-components) |
 | [3310-remove-methods-from-project](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/3310-remove-methods-from-project) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Matrix
 |  |
 | ------- |
@@ -96,6 +98,7 @@
 | [1260-shift-2d-grid](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/1260-shift-2d-grid) |
 | [1289-minimum-falling-path-sum-ii](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/1289-minimum-falling-path-sum-ii) |
 | [1301-number-of-paths-with-max-score](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/1301-number-of-paths-with-max-score) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -283,6 +286,7 @@
 | [3312-sorted-gcd-pair-queries](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/3312-sorted-gcd-pair-queries) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3731-find-missing-elements](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/3731-find-missing-elements) |
 ## Linked List
@@ -300,6 +304,7 @@
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Tree
 |  |
 | ------- |
