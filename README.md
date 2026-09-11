@@ -61,6 +61,7 @@
 | ------- |
 | [0130-surrounded-regions](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/0130-surrounded-regions) |
 | [0144-binary-tree-preorder-traversal](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/0145-binary-tree-postorder-traversal) |
 | [0200-number-of-islands](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/0200-number-of-islands) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0365-water-and-jug-problem](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/0365-water-and-jug-problem) |
@@ -323,6 +324,7 @@
 |  |
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/0145-binary-tree-postorder-traversal) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/1483-kth-ancestor-of-a-tree-node) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
@@ -338,6 +340,7 @@
 |  |
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/0145-binary-tree-postorder-traversal) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 ## Enumeration
 |  |
@@ -388,6 +391,7 @@
 | [0020-valid-parentheses](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/0020-valid-parentheses) |
 | [0084-largest-rectangle-in-histogram](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/0084-largest-rectangle-in-histogram) |
 | [0144-binary-tree-preorder-traversal](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/0145-binary-tree-postorder-traversal) |
 | [0225-implement-stack-using-queues](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/0232-implement-queue-using-stacks) |
 | [0496-next-greater-element-i](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/0496-next-greater-element-i) |
