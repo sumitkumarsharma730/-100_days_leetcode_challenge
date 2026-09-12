@@ -36,6 +36,7 @@
 | [1406-stone-game-iii](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/1406-stone-game-iii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2094-finding-3-digit-even-numbers](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/2094-finding-3-digit-even-numbers) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2447-number-of-subarrays-with-gcd-equal-to-k](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/2447-number-of-subarrays-with-gcd-equal-to-k) |
 | [2470-number-of-subarrays-with-lcm-equal-to-k](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/2470-number-of-subarrays-with-lcm-equal-to-k) |
@@ -177,6 +178,7 @@
 | [0049-group-anagrams](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/0049-group-anagrams) |
 | [1288-remove-covered-intervals](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/1331-rank-transform-of-an-array) |
+| [2094-finding-3-digit-even-numbers](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/2094-finding-3-digit-even-numbers) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -297,6 +299,7 @@
 | [0930-binary-subarrays-with-sum](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/0930-binary-subarrays-with-sum) |
 | [1248-count-number-of-nice-subarrays](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/1248-count-number-of-nice-subarrays) |
 | [1331-rank-transform-of-an-array](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/1331-rank-transform-of-an-array) |
+| [2094-finding-3-digit-even-numbers](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/2094-finding-3-digit-even-numbers) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/3312-sorted-gcd-pair-queries) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -346,6 +349,7 @@
 |  |
 | ------- |
 | [1291-sequential-digits](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/1291-sequential-digits) |
+| [2094-finding-3-digit-even-numbers](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/2094-finding-3-digit-even-numbers) |
 | [2427-number-of-common-factors](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/2427-number-of-common-factors) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/3514-number-of-unique-xor-triplets-ii) |
@@ -424,6 +428,7 @@
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/0486-predict-the-winner) |
+| [2094-finding-3-digit-even-numbers](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/2094-finding-3-digit-even-numbers) |
 ## Game Theory
 |  |
 | ------- |
