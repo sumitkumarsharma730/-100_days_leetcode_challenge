@@ -1,30 +1,40 @@
+// Time  → O(n + 450) = O(n)
+// Space → O(1)
 class Solution {
 public:
     vector<int> findEvenNumbers(vector<int>& digits) {
-        vector<int> available(10, 0);
+        vector<int> freq(10, 0);
 
-        for(int i = 0; i < digits.size(); i++){
-            available[digits[i]]++;
-        }
+        for(int d : digits)
+            freq[d]++;
+
         vector<int> ans;
-        for(int i = 100; i < 1000; i += 2){
-            int nums = i;
-            vector<int> need(10, 0);
-            while(nums){
-                need[nums % 10]++;
-                nums /= 10;
-            }
-            bool possible = 1;
-            for(int j = 0; j < 10; j++){
-                if(available[j] < need[j]){
-                    possible = 0;
-                    break;
+
+        for(int a = 1; a <= 9; a++) {
+            for(int b = 0; b <= 9; b++) {
+                for(int c = 0; c <= 8; c += 2) {
+
+                    if(freq[a] == 0 || freq[b] == 0 || freq[c] == 0)
+                        continue;
+
+                    if(a == b && b == c) {
+                        if(freq[a] < 3)
+                            continue;
+                    }
+                    else if(a == b || a == c) {
+                        if(freq[a] < 2)
+                            continue;
+                    }
+                    else if(b == c) {
+                        if(freq[b] < 2)
+                            continue;
+                    }
+
+                    ans.push_back(a * 100 + b * 10 + c);
                 }
             }
-            if(possible){
-                ans.push_back(i);
-            }
         }
+
         return ans;
     }
 };
