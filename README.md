@@ -125,6 +125,7 @@
 | [1406-stone-game-iii](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/1406-stone-game-iii) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/1483-kth-ancestor-of-a-tree-node) |
 | [1510-stone-game-iv](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/1510-stone-game-iv) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -233,6 +234,7 @@
 | [0061-rotate-list](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/0061-rotate-list) |
 | [0392-is-subsequence](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/0392-is-subsequence) |
 | [0844-backspace-string-compare](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/0844-backspace-string-compare) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -242,6 +244,7 @@
 | [0011-container-with-most-water](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/0011-container-with-most-water) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/3348-smallest-divisible-digit-product-ii) |
@@ -261,6 +264,7 @@
 | [1071-greatest-common-divisor-of-strings](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/3348-smallest-divisible-digit-product-ii) |
