@@ -35,6 +35,7 @@
 | [1301-number-of-paths-with-max-score](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/1301-number-of-paths-with-max-score) |
 | [1331-rank-transform-of-an-array](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/1331-rank-transform-of-an-array) |
 | [1406-stone-game-iii](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/1406-stone-game-iii) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2094-finding-3-digit-even-numbers](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/2094-finding-3-digit-even-numbers) |
@@ -123,6 +124,7 @@
 | [1289-minimum-falling-path-sum-ii](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/1289-minimum-falling-path-sum-ii) |
 | [1301-number-of-paths-with-max-score](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/1301-number-of-paths-with-max-score) |
 | [1406-stone-game-iii](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/1406-stone-game-iii) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/1483-kth-ancestor-of-a-tree-node) |
 | [1510-stone-game-iv](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/1510-stone-game-iv) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
@@ -168,6 +170,7 @@
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/0209-minimum-size-subarray-sum) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/1483-kth-ancestor-of-a-tree-node) |
 | [3312-sorted-gcd-pair-queries](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/3312-sorted-gcd-pair-queries) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
@@ -303,6 +306,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/0209-minimum-size-subarray-sum) |
 | [0930-binary-subarrays-with-sum](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/0930-binary-subarrays-with-sum) |
 | [1248-count-number-of-nice-subarrays](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/1248-count-number-of-nice-subarrays) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 ## Hash Table
 |  |
 | ------- |
@@ -313,6 +317,7 @@
 | [0930-binary-subarrays-with-sum](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/0930-binary-subarrays-with-sum) |
 | [1248-count-number-of-nice-subarrays](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/1248-count-number-of-nice-subarrays) |
 | [1331-rank-transform-of-an-array](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/1331-rank-transform-of-an-array) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2094-finding-3-digit-even-numbers](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/2094-finding-3-digit-even-numbers) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/3312-sorted-gcd-pair-queries) |
