@@ -7,15 +7,13 @@ public:
         vector<int>& startIndex,
         vector<int>& endIndex
     ) {
-        int i = start;
+        for(int i = start; i <= last; i++) {
 
-        while(i <= last) {
             if(startIndex[s[i] - 'a'] < start) {
                 return false;
             }
 
             last = max(last, endIndex[s[i] - 'a']);
-            i++;
         }
 
         return true;
@@ -29,8 +27,8 @@ public:
         vector<int> startIndex(26, -1);
         vector<int> endIndex(26, -1);
 
-        // Find first and last occurrence
         for(int i = 0; i < n; i++) {
+
             if(startIndex[s[i] - 'a'] == -1) {
                 startIndex[s[i] - 'a'] = i;
             }
@@ -38,44 +36,45 @@ public:
             endIndex[s[i] - 'a'] = i;
         }
 
-        // Store all valid intervals
         vector<pair<int,int>> intervals;
 
-        for(int j = 0; j < n; j++) {
+        for(int i = 0; i < 26; i++) {
 
-            // Only start from first occurrence
-            if(startIndex[s[j] - 'a'] != j) {
+            if(startIndex[i] == -1) {
                 continue;
             }
 
-            int start = j;
-            int last = endIndex[s[j] - 'a'];
+            int start = startIndex[i];
+            int last = endIndex[i];
 
-            bool check = checkValidMinSubString(
-                s, start, last,
-                startIndex, endIndex
-            );
-
-            if(check) {
+            if(checkValidMinSubString(
+                s,
+                start,
+                last,
+                startIndex,
+                endIndex
+            )) {
                 intervals.push_back({start, last});
             }
         }
 
-        // Sort according to ending position
-        sort(intervals.begin(), intervals.end(),
-            [](auto &a, auto &b) {
+        sort(
+            intervals.begin(),
+            intervals.end(),
+            [](const auto& a, const auto& b) {
                 return a.second < b.second;
             }
         );
 
-        // Select maximum number of non-overlapping intervals
         int prevEnd = -1;
 
         for(auto &interval : intervals) {
+
             int start = interval.first;
             int last = interval.second;
 
             if(start > prevEnd) {
+
                 ans.push_back(
                     s.substr(start, last - start + 1)
                 );
