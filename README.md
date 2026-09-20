@@ -63,6 +63,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/0100-same-tree) |
 | [0110-balanced-binary-tree](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/0110-balanced-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0130-surrounded-regions](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/0130-surrounded-regions) |
@@ -85,6 +86,7 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/0100-same-tree) |
 | [0130-surrounded-regions](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/0200-number-of-islands) |
 | [0365-water-and-jug-problem](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/0365-water-and-jug-problem) |
@@ -354,6 +356,7 @@
 ## Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/0100-same-tree) |
 | [0110-balanced-binary-tree](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/0110-balanced-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/0144-binary-tree-preorder-traversal) |
@@ -373,6 +376,7 @@
 ## Binary Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/0100-same-tree) |
 | [0110-balanced-binary-tree](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/0110-balanced-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/0144-binary-tree-preorder-traversal) |
