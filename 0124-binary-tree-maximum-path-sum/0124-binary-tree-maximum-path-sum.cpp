@@ -11,28 +11,29 @@
  */
 class Solution {
 public:
-    int maxSum(TreeNode* root, int& sum){
-        if(root == NULL){
+    int maxSum(TreeNode* root, int& ans) {
+        if(root == NULL) {
             return 0;
         }
-        int leftSum = maxSum(root -> left, sum);
-        int rightSum = maxSum(root -> right, sum);
 
-        int value = root -> val;
+        int leftSum = max(0, maxSum(root->left, ans));  // So we treat the negative contribution as 0.
+        int rightSum = max(0, maxSum(root->right, ans));
 
-        sum = max(sum, value);
+        int currentSum = root->val + leftSum + rightSum;
 
-        sum = max(sum, leftSum + value);  
+        ans = max(ans, currentSum);
 
-        sum = max(sum, value + rightSum);   
-
-        sum = max(sum, leftSum + value + rightSum);
-
-        return max(value + max(leftSum, rightSum), value);
+        return root->val + max(leftSum, rightSum);
     }
+
     int maxPathSum(TreeNode* root) {
-        int sum = INT_MIN;
-        maxSum(root, sum);
-        return sum;
+        int ans = INT_MIN;  // For single or multiple negative nodes where we choose maximum one of negative nodes
+
+        maxSum(root, ans);
+
+        return ans;
     }
 };
+
+// Time  : O(n)
+// Space : O(h)
