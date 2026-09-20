@@ -70,6 +70,7 @@
 | [0200-number-of-islands](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/0200-number-of-islands) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0365-water-and-jug-problem](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/0365-water-and-jug-problem) |
+| [0543-diameter-of-binary-tree](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/0743-network-delay-time) |
@@ -355,6 +356,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/0145-binary-tree-postorder-traversal) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0543-diameter-of-binary-tree](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/0543-diameter-of-binary-tree) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/1483-kth-ancestor-of-a-tree-node) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
@@ -372,6 +374,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/0145-binary-tree-postorder-traversal) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0543-diameter-of-binary-tree](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/0543-diameter-of-binary-tree) |
 ## Enumeration
 |  |
 | ------- |
@@ -495,4 +498,8 @@
 | ------- |
 | [0836-rectangle-overlap](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/0836-rectangle-overlap) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/1401-circle-and-rectangle-overlapping) |
+## DP on Trees
+|  |
+| ------- |
+| [0543-diameter-of-binary-tree](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/0543-diameter-of-binary-tree) |
 <!---LeetCode Topics End-->
