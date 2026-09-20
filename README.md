@@ -64,6 +64,7 @@
 |  |
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/0110-balanced-binary-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0130-surrounded-regions](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/0130-surrounded-regions) |
 | [0144-binary-tree-preorder-traversal](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/0145-binary-tree-postorder-traversal) |
@@ -117,6 +118,7 @@
 | ------- |
 | [0022-generate-parentheses](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/0022-generate-parentheses) |
 | [0115-distinct-subsequences](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/0115-distinct-subsequences) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0198-house-robber](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/0198-house-robber) |
 | [0392-is-subsequence](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/0392-is-subsequence) |
 | [0486-predict-the-winner](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/0486-predict-the-winner) |
@@ -353,6 +355,7 @@
 |  |
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/0110-balanced-binary-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/0145-binary-tree-postorder-traversal) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -371,6 +374,7 @@
 |  |
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/0110-balanced-binary-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/0145-binary-tree-postorder-traversal) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -501,5 +505,6 @@
 ## DP on Trees
 |  |
 | ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/0543-diameter-of-binary-tree) |
 <!---LeetCode Topics End-->
