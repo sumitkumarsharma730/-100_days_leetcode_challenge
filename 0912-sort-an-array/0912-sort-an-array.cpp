@@ -1,56 +1,44 @@
+// QUICK SORT
 class Solution {
 public:
-    void merge(vector<int>& nums, vector<int>& temp, int left, int mid, int right) {
-        int i = left;
-        int j = mid + 1;
-        int k = left;
+    int f(vector<int>& nums, int s, int e) {
+        int pivotIndex = s + rand() % (e - s + 1); //pivot ko randomly choose karne ke liye hai.
+        swap(nums[s], nums[pivotIndex]);
 
-        while(i <= mid && j <= right) {
-            if(nums[i] <= nums[j]) {
-                temp[k++] = nums[i++];
+        int pivot = s;
+        int i = s;
+        int j = e;
+
+        while(i < j) {
+            while(i <= e && nums[i] <= nums[pivot]) {
+                i++;
             }
-            else {
-                temp[k++] = nums[j++];
+
+            while(j >= s && nums[j] > nums[pivot]) {
+                j--;
+            }
+
+            if(i < j) {
+                swap(nums[i], nums[j]);
             }
         }
 
-        while(i <= mid) {
-            temp[k++] = nums[i++];
-        }
+        swap(nums[pivot], nums[j]);
 
-        while(j <= right) {
-            temp[k++] = nums[j++];
-        }
-
-        for(int i = left; i <= right; i++) {
-            nums[i] = temp[i];
-        }
+        return j;
     }
 
-    void mergeSort(vector<int>& nums, vector<int>& temp, int left, int right) {
-        if(left >= right) {
-            return;
-        }
+    void quick(vector<int>& nums, int s, int e) {
+        if(s >= e) return;
 
-        int mid = left + (right - left) / 2;
+        int pindex = f(nums, s, e);
 
-        mergeSort(nums, temp, left, mid);
-        mergeSort(nums, temp, mid + 1, right);
-
-        merge(nums, temp, left, mid, right);
+        quick(nums, s, pindex - 1);
+        quick(nums, pindex + 1, e);
     }
 
     vector<int> sortArray(vector<int>& nums) {
-        int n = nums.size();
-
-        if(n <= 1) {
-            return nums;
-        }
-
-        vector<int> temp(n);
-
-        mergeSort(nums, temp, 0, n - 1);
-
+        quick(nums, 0, nums.size() - 1);
         return nums;
     }
 };
