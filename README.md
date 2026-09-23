@@ -9,6 +9,7 @@
 | [0040-combination-sum-ii](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/0040-combination-sum-ii) |
 | [0048-rotate-image](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/0049-group-anagrams) |
+| [0073-set-matrix-zeroes](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/0073-set-matrix-zeroes) |
 | [0084-largest-rectangle-in-histogram](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/0084-largest-rectangle-in-histogram) |
 | [0090-subsets-ii](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/0090-subsets-ii) |
 | [0119-pascals-triangle-ii](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/0119-pascals-triangle-ii) |
@@ -109,6 +110,7 @@
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/0048-rotate-image) |
+| [0073-set-matrix-zeroes](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/0073-set-matrix-zeroes) |
 | [0130-surrounded-regions](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/0200-number-of-islands) |
 | [0542-01-matrix](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/0542-01-matrix) |
@@ -333,6 +335,7 @@
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/0049-group-anagrams) |
+| [0073-set-matrix-zeroes](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/0073-set-matrix-zeroes) |
 | [0460-lfu-cache](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/0460-lfu-cache) |
 | [0496-next-greater-element-i](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/0496-next-greater-element-i) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
