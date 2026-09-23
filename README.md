@@ -10,6 +10,7 @@
 | [0049-group-anagrams](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/0049-group-anagrams) |
 | [0084-largest-rectangle-in-histogram](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/0084-largest-rectangle-in-histogram) |
 | [0090-subsets-ii](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/0090-subsets-ii) |
+| [0119-pascals-triangle-ii](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/0119-pascals-triangle-ii) |
 | [0130-surrounded-regions](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/0130-surrounded-regions) |
 | [0198-house-robber](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/0200-number-of-islands) |
@@ -122,6 +123,7 @@
 | ------- |
 | [0022-generate-parentheses](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/0022-generate-parentheses) |
 | [0115-distinct-subsequences](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/0115-distinct-subsequences) |
+| [0119-pascals-triangle-ii](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/0119-pascals-triangle-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0198-house-robber](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/0198-house-robber) |
 | [0392-is-subsequence](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/0392-is-subsequence) |
