@@ -7,6 +7,7 @@
 | [0011-container-with-most-water](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/0011-container-with-most-water) |
 | [0039-combination-sum](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/0040-combination-sum-ii) |
+| [0048-rotate-image](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/0049-group-anagrams) |
 | [0084-largest-rectangle-in-histogram](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/0084-largest-rectangle-in-histogram) |
 | [0090-subsets-ii](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/0090-subsets-ii) |
@@ -107,6 +108,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/0048-rotate-image) |
 | [0130-surrounded-regions](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/0200-number-of-islands) |
 | [0542-01-matrix](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/0542-01-matrix) |
@@ -215,6 +217,7 @@
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/0048-rotate-image) |
 | [0365-water-and-jug-problem](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/0365-water-and-jug-problem) |
 | [0486-predict-the-winner](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/0486-predict-the-winner) |
 | [0836-rectangle-overlap](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/0836-rectangle-overlap) |
