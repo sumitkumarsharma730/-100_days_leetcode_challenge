@@ -1,37 +1,55 @@
+// Instead of removing elements from the left and right whose sum is x, find the longest middle subarray whose sum is: 
+// totalSum - x
+
+// If its length is len, then the number of removed elements is:
+
+// n - len
+
 class Solution {
 public:
     int minOperations(vector<int>& nums, int x) {
+
         int n = nums.size();
-        int i = 0;
-        int j = n-1;
-        int left = 0;
-        int right = 0;
-        int ans = INT_MAX;
-        while(i < n){
-            left += nums[i];
-            if(x == left){
-                ans = min(ans, i+1);
-                break;
-            }
-            else if(x < left){
-                break;
-            }
-            i++;
+
+        long long total = 0;
+
+        for(int num : nums) {
+            total += num;
         }
-        if(i == n){
+
+        long long target = total - x;
+
+        if(target < 0) {
             return -1;
         }
-        while(i >= 0){
-            left -= nums[i];
-            while(left + right < x){
-                right += nums[j];
-                j--;
-            }
-            if(left + right == x){
-                ans = min(ans, n - (j-i+1));
-            }
-            i--;
+
+        // target == 0 means remove the whole array
+        if(target == 0) {
+            return n;
         }
-        return (ans == INT_MAX) ? -1 : ans;
+
+        int left = 0;
+        long long sum = 0;
+        int maxLen = -1;
+
+        for(int right = 0; right < n; right++) {
+
+            sum += nums[right];
+
+            while(left <= right && sum > target) {
+                sum -= nums[left];
+                left++;
+            }
+
+            if(sum == target) {
+                maxLen = max(maxLen, right - left + 1);
+            }
+        }
+
+        if(maxLen == -1) {
+            return -1;
+        }
+
+        return n - maxLen;
     }
 };
