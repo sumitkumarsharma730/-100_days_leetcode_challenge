@@ -6,6 +6,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/0011-container-with-most-water) |
 | [0018-4sum](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/0018-4sum) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0039-combination-sum](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/0040-combination-sum-ii) |
 | [0048-rotate-image](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/0048-rotate-image) |
@@ -188,6 +189,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/0209-minimum-size-subarray-sum) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/1483-kth-ancestor-of-a-tree-node) |
