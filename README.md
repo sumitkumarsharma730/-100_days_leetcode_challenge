@@ -298,6 +298,7 @@
 | [0940-distinct-subsequences-ii](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/0940-distinct-subsequences-ii) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
@@ -468,6 +469,7 @@
 | [0682-baseball-game](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/0844-backspace-string-compare) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -560,4 +562,8 @@
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/0023-merge-k-sorted-lists) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 <!---LeetCode Topics End-->
