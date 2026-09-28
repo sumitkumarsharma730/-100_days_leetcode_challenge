@@ -228,6 +228,7 @@
 | [0048-rotate-image](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/0048-rotate-image) |
 | [0365-water-and-jug-problem](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/0365-water-and-jug-problem) |
 | [0486-predict-the-winner](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/0486-predict-the-winner) |
+| [0507-perfect-number](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/0507-perfect-number) |
 | [0836-rectangle-overlap](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/0877-stone-game) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/sumitkumarsharma730/-100_days_leetcode_challenge/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
